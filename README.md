@@ -4,7 +4,7 @@ _Live into the awe of reality, with all persons, in union with all things._
 
 ## Preamble
 
-Each person's life is expressed uniquely by way of their language, religion (or non-religion), country, and other cultural attributes that one associate themselves with or are identified with. Yet, individuals need help to live their lives into their fullness. To do so requires the help of others. This document proposes a simple methodology for the creation of social groups that will help the individuals to better their lives and their community.
+Each person's life is expressed uniquely by way of their language, religion (or non-religion), country, and other cultural attributes that one associate themselves with or are identified with. Yet, individuals need help to live their lives into fullness. To do so requires the help of others. This document proposes a simple methodology for the creation of social groups that will help the individuals to better their lives and their community.
 
 ## Node, Pods, and Clusters
 
