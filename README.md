@@ -10,11 +10,13 @@ Each person's life is expressed uniquely by way of their language, religion (or 
 
 A node represents a person. A pod represents a group of individuals, preferably no bigger than nine members large. A cluster is a collection of pods.
 
-Pods are composed of individuals that work together to, first, address their concerns and then, secondly, to work on addressing their community's concerns. It's left up to the pod to determine the process of achieving their goals. Clusters are composed of pods that work together to achieve goals that can't be achieved by any pod alone.
+Pods are composed of individuals that work together to, first, address their concerns and then, secondly, to work on addressing their community's concerns. It's left up to the pod to determine the process of achieving their goals. Clusters are composed of pods, and optionally individuals, that work together to achieve goals that can't be achieved by any pod alone.
 
+```
 cluster = pod | node
 pod = node {2,9}
-node = person 
+node = person
+``` 
 
 ## Final Words
 
